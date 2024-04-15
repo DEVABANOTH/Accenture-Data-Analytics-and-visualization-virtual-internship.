@@ -19,3 +19,5 @@ Project brief: [Social buzz](https://github.com/DEVABANOTH/Accenture-Data-Analyt
 1. Remove rows with missing values to ensure data integrity.
 2. Adjust the data type of certain values within columns for consistency and accuracy.
 3. Eliminate columns that are irrelevant to the investigation's business question. Consider each column's relevance to the analysis; if a column does not contribute to answering the business question, it may be excluded.
+
+The final outcome will consist of three meticulously cleaned data sets: [Content:](https://github.com/DEVABANOTH/Accenture-Data-Analytics-and-visualization-virtual-internship./blob/main/Content.xlsx), [Reactions:](https://github.com/DEVABANOTH/Accenture-Data-Analytics-and-visualization-virtual-internship./blob/main/Reactions.xlsx), and [ReactionTypes:](https://github.com/DEVABANOTH/Accenture-Data-Analytics-and-visualization-virtual-internship./blob/main/ReactionTypes.xlsx).
