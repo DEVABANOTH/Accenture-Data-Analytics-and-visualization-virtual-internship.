@@ -12,3 +12,10 @@ Project brief: [Social buzz](https://github.com/DEVABANOTH/Accenture-Data-Analyt
 **the three specifications that Accenture has to meet in order to complete this project:** Our engagement encompasses three key areas: auditing the client's big data practices, providing recommendations for their upcoming IPO, and conducting an analysis of popular content categories.
 
 **As a Data Analyst:** The primary responsibility as a data analyst is to analyze sample data sets, utilizing visualizations to comprehend the popularity of various content categories.
+
+# TASK-02
+## Data Cleaning
+**To clean the data:**
+1. Remove rows with missing values to ensure data integrity.
+2. Adjust the data type of certain values within columns for consistency and accuracy.
+3. Eliminate columns that are irrelevant to the investigation's business question. Consider each column's relevance to the analysis; if a column does not contribute to answering the business question, it may be excluded.
