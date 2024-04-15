@@ -13,6 +13,7 @@ Project brief: [Social buzz](https://github.com/DEVABANOTH/Accenture-Data-Analyt
 
 **As a Data Analyst:** The primary responsibility as a data analyst is to analyze sample data sets, utilizing visualizations to comprehend the popularity of various content categories.
 
+
 # TASK-02
 ## Data Cleaning
 **To clean the data:**
@@ -30,3 +31,13 @@ The final outcome will consist of three meticulously cleaned data sets: [Content
 >- A cleaned dataset
 >- The top 5 categories
 >- [**CLEANED : FINAL DATASET**](https://github.com/DEVABANOTH/Accenture-Data-Analytics-and-visualization-virtual-internship./blob/main/FINAL%20DATASET.xlsx)
+
+# TASK-03
+## Data visualization and Storytelling
+1. Select data visualizations that align with and bolster the narrative being conveyed to the client regarding their content performance.
+2. Develop a comprehensive PowerPoint presentation specifically focused on reporting the client's content performance, incorporating insightful data visualizations.
+[**PowerPoint Presentation**](https://github.com/DEVABANOTH/Accenture-Data-Analytics-and-visualization-virtual-internship./blob/main/PowerPoint%20presentation%20on%20social%20buzz.pptx)
+
+# TASK-04
+## Present to the Client
+**Prepare a comprehensive presentation deck containing insightful analyses and data visualizations to effectively communicate key insights to the client. During the presentation, articulate the findings clearly, provide context, and engage with the client to ensure understanding and alignment with their objectives.**
