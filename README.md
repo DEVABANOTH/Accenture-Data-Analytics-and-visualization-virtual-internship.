@@ -21,3 +21,12 @@ Project brief: [Social buzz](https://github.com/DEVABANOTH/Accenture-Data-Analyt
 3. Eliminate columns that are irrelevant to the investigation's business question. Consider each column's relevance to the analysis; if a column does not contribute to answering the business question, it may be excluded.
 
 The final outcome will consist of three meticulously cleaned data sets: [Content:](https://github.com/DEVABANOTH/Accenture-Data-Analytics-and-visualization-virtual-internship./blob/main/Content.xlsx), [Reactions:](https://github.com/DEVABANOTH/Accenture-Data-Analytics-and-visualization-virtual-internship./blob/main/Reactions.xlsx), and [ReactionTypes:](https://github.com/DEVABANOTH/Accenture-Data-Analytics-and-visualization-virtual-internship./blob/main/ReactionTypes.xlsx).
+
+## Data Modelling
+1. Create a final data set by merging three tables together.
+2. Figure out the Top 5 performing categories.
+
+**The end result should be one spreadsheet which contains:**
+>- A cleaned dataset
+>- The top 5 categories
+>- [**CLEANED : FINAL DATASET**](https://github.com/DEVABANOTH/Accenture-Data-Analytics-and-visualization-virtual-internship./blob/main/FINAL%20DATASET.xlsx)
